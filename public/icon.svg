@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="burgundy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a0b15"/>
+      <stop offset="50%" stop-color="#6b1220"/>
+      <stop offset="100%" stop-color="#2a060d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fdf4dc"/>
+      <stop offset="50%" stop-color="#e3c48a"/>
+      <stop offset="100%" stop-color="#b38b45"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="100" fill="url(#burgundy)"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#gold)" stroke-width="8" stroke-dasharray="8 6"/>
+  <circle cx="256" cy="256" r="195" fill="none" stroke="url(#gold)" stroke-width="3"/>
+  <!-- Graduation Cap -->
+  <path d="M256 120 L380 185 L256 250 L132 185 Z" fill="url(#gold)"/>
+  <polygon points="175,210 175,270 256,310 337,270 337,210 256,252" fill="#faf6f1" opacity="0.95"/>
+  <path d="M380 185 L400 240 L395 300" stroke="url(#gold)" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="395" cy="305" r="8" fill="url(#gold)"/>
+  <!-- Open Book -->
+  <path d="M150 350 C200 330 250 340 256 360 C262 340 312 330 362 350 L362 420 C312 400 262 410 256 428 C250 410 200 400 150 420 Z" fill="#ffffff"/>
+  <path d="M256 360 L256 428" stroke="#6b1220" stroke-width="4"/>
+  <!-- Text ENS DJELFA -->
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="34" fill="url(#gold)" letter-spacing="4">ENS DJELFA</text>
+</svg>

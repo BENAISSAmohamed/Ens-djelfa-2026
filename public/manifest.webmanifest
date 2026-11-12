@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "ملحقة المدرسة العليا للأساتذة - الجلفة | ENS Djelfa",
+  "short_name": "ENS Djelfa",
+  "description": "المنصة الرقمية الرسمية لملحقة المدرسة العليا للأساتذة بالجلفة",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#5a0f1c",
+  "background_color": "#faf6f1",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

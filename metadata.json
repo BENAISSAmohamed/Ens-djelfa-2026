@@ -1,0 +1,6 @@
+{
+  "name": "ملحقة المدرسة العليا للأساتذة - الجلفة | ENS Djelfa",
+  "description": "المنصة الرقمية لملحقة المدرسة العليا للأساتذة بالجلفة: التخصصات، جداول التوقيت، الخدمات الأكاديمية والتوثيق السحابي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
